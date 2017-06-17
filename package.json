@@ -1,0 +1,29 @@
+{
+  "name": "kusnode",
+  "version": "1.0.0",
+  "description": "this is just a demo application to run inside docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kontainer/node.git"
+  },
+  "keywords": [
+    "docker",
+    "container",
+    "nodejs",
+    "node",
+    "iceland"
+  ],
+  "author": "Kushal Hada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kontainer/node/issues"
+  },
+  "homepage": "https://github.com/kontainer/node#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
